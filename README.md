@@ -1,9 +1,9 @@
 # Extension manual phpexcel_service
 
-Fork of Armin Vieweg's extension for Typo3 7.6.
+Fork of Armin Vieweg's and Jan Bartels extension for Typo3 8.7.
 
 phpexcel_service provides the library [PHPExcel](https://phpexcel.codeplex.com) for TYPO3.
-This version contains the version 1.8.0 and requires TYPO3 7.6.
+This version contains the version 1.8.0 and requires TYPO3 8.7.
 
 The [documentation of PHPExcel](https://github.com/PHPOffice/PHPExcel/wiki/User%20Documentation) itself can be found on github.
 
